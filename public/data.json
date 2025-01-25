@@ -1,0 +1,306 @@
+{
+    "main": {
+      "name": "Simran Vaishya",
+      "shortDesc": "Just a girl chasing dreams in the tech world, crafting magic with every line of code!",
+      "titles": [
+        "Full Stack Development",
+        "Frontend Development",
+        "Backend Development",
+        "Android Development"
+      ],
+      "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-rainbow-sunglasses_23-2149436181.jpg",
+      "techStackImages": [
+        "https://img.icons8.com/external-outline-black-m-oki-orlando/144/000000/external-sdlc-project-management-outline-black-m-oki-orlando.png",
+        "https://img.icons8.com/color/144/android-os.png",
+        "https://img.icons8.com/color/144/000000/redux.png",
+        "https://img.icons8.com/color/144/000000/mongodb.png"
+      ]
+    },
+    "about": {
+      "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-rainbow-sunglasses_23-2149436181.jpg",
+      "aboutImageCaption": "< From Concept to Code 🧩/>",
+      "title": "Full Stack Developer",
+      "about": "Hey, I’m Simran Vaishya, a Software Engineer and recent MS in Computer Science graduate from University of Southern California. I have experience in full-stack and Android development, building apps that are both scalable and user-friendly. Working in startups has taught me how to adapt quickly, take ownership, and wear multiple hats to get things done.  I love solving real-world engineering challenges, and if there's one thing I enjoy as much as coding, it's finding the best coffee spots to fuel my late-night debugging sessions!",
+      "callUrl": "",
+      "resumeUrl": "https://drive.google.com/file/d/1mVSzFzQJiA6LCVuVQvVNWZyhnpb6Hs-J/view?usp=drive_link"
+    },
+    "socials": [
+      {
+        "icon": "FaLinkedin",
+        "link": "https://www.linkedin.com/in/simran-vaishya/"
+      },
+      {
+        "icon": "FaGithub",
+        "link": "https://github.com/simranvaishya53"
+      },
+      {
+        "icon": "FaInstagram",
+        "link": "https://www.instagram.com/simran_vaishya53"
+      }
+  
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "image": "https://img.icons8.com/color/144/null/c.png",
+        "category": "Languages"
+      },
+      {
+        "name": "C++",
+        "image": "https://img.icons8.com/color/144/null/c-plus-plus-logo.png",
+        "category": "Languages"
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+        "category": "Languages"
+      },
+      {
+        "name": "Python",
+        "image": "https://img.icons8.com/color/144/null/python.png",
+        "category": "Languages"
+      },
+      {
+        "name": "Java",
+        "image": "https://img.icons8.com/color/144/null/java-coffee-cup-logo--v1.png",
+        "category": "Languages"
+      },
+      {
+        "name": "Kotlin",
+        "image": "https://img.icons8.com/color/144/null/kotlin.png",
+        "category": "Languages"
+      },
+      {
+        "name": "SQL",
+        "image": "https://img.icons8.com/external-bearicons-blue-bearicons/144/null/external-SQL-file-extension-bearicons-blue-bearicons.png",
+        "category": "Languages"
+      },
+      {
+        "name": "HTML",
+        "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+        "category": "Languages"
+      },
+      {
+        "name": "CSS",
+        "image": "https://img.icons8.com/color/144/null/css3.png",
+        "category": "Languages"
+      },
+      
+      {
+        "name": "TypeScript",
+        "image": "https://img.icons8.com/fluency/144/null/typescript--v1.png",
+        "category": "Languages"
+      },
+      {
+        "name": "C#",
+        "image": "https://img.icons8.com/color/144/null/c-sharp-logo.png",
+        "category": "Languages"
+      },
+      {
+        "name": "PHP",
+        "image": "https://img.icons8.com/parakeet/144/null/php.png",
+        "category": "Languages"
+      },
+      
+      {
+        "name": "Flask",
+        "image": "https://img.icons8.com/ios/144/null/flask.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "ReactJs",
+        "image": "https://img.icons8.com/plasticine/144/null/react.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "AngularJs",
+        "image": "https://img.icons8.com/color/144/null/angularjs.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Node.js",
+        "image": "https://img.icons8.com/color/144/null/nodejs.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Next.js",
+        "image": "https://img.icons8.com/fluency/144/null/nextjs.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Spring Boot",
+        "image": "https://img.icons8.com/office/40/spring-logo.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Flutter",
+        "image": "https://img.icons8.com/color/144/null/flutter.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "https://img.icons8.com/color-glass/144/null/bootstrap.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Django",
+        "image": "https://img.icons8.com/ios-filled/144/null/django.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Redux",
+        "image": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/144/null/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-fresh-tal-revivo.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "ExpressJS",
+        "image": "https://img.icons8.com/office/144/null/express-js.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": ".NET",
+        "image": "https://img.icons8.com/color/144/null/net-framework.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "Vue",
+        "image": "https://img.icons8.com/nolan/64/vue-js.png",
+        "category": "Frameworks"
+      },
+      {
+        "name": "jQuery",
+        "image": "https://img.icons8.com/badges/48/jquery.png",
+        "category": "Frameworks"
+      },
+  
+      {
+        "name": "Git",
+        "image": "https://img.icons8.com/material-outlined/144/null/github.png",
+        "category": "Tools/Tech"
+      },
+      {
+        "name": "AWS",
+        "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+        "category": "Tools/Tech"
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://img.icons8.com/color/144/null/mongodb.png",
+        "category": "Database"
+      },
+      {
+        "name": "MYSQL",
+        "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
+        "category": "Database"
+      },
+      {
+        "name": "NoSQL",
+        "image": "https://img.icons8.com/external-outline-black-m-oki-orlando/144/null/external-nosql-database-outline-outline-black-m-oki-orlando.png",
+        "category": "Database"
+      },
+      {
+        "name": "Android Studio",
+        "image": "https://img.icons8.com/color/144/null/android-studio--v2.png",
+        "category": "Tools/Tech"
+      },
+      {
+        "name": "REST API",
+        "image": "https://img.icons8.com/dusk/144/null/api-settings.png",
+        "category": "Tools/Tech"
+      }
+  
+    ],
+    "projects": [
+      
+      {
+        "name": "Food Ordering System",
+        "techstack": "HTML, CSS, PHP, MYSQL",
+        "category": "Full Stack",
+        "image": "/project-Images/food-order.png",
+        "links": {
+          "code": "https://github.com/simranvaishya53/food-ordering-system",
+          "video": "",
+          "visit": ""
+        }
+      },
+
+      {
+        "name": "eBay Explorer: Android Edition",
+        "techstack": "Android Studio, Kotlin, Node.js, MongoDB, Restful API",
+        "category": "Mobile",
+        "image": "/project-Images/android-iphone.png",
+        "links": {
+          "code": "https://github.com/simranvaishya53/eBay-Explorer-Android-Edition",
+          "video": "",
+          "visit": ""
+        }
+      },
+
+      {
+        "name": "EduConnect - Learning Management System",
+        "techstack": "Spring Boot, Angular.js, MySQL, Java",
+        "category": "Full Stack",
+        "image": "/project-Images/educonnect.jpg",
+        "links": {
+          "code": "",
+          "video": "",
+          "visit": ""
+        }
+      },
+
+      {
+        "name": "Retail Product Search Application",
+        "techstack": "MongoDB, ExpressJS, React, Node.js, RESTful API, React-Redux, Bootstrap",
+        "category": "Full Stack",
+        "image": "/project-Images/retail-products.png",
+        "links": {
+          "code": "https://github.com/simranvaishya53/Retail-Product-Search-Application",
+          "video": "",
+          "visit": ""
+        }
+      }
+      
+    ],
+    "educations": [
+      {
+        "institute": "MIT World Peace University",
+        "degree": "BTech in Computer Science and Engineering",
+        "duration": "2018 - 2022",
+        "desc": [
+          "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems, Object-Oriented Programming, Software Engineering & Project Management and Computer Networks",
+          "Technical Head - Computer Society of India Student Chapter MIT-WPU"
+        ]
+      },
+      {
+        "institute": "University of Southern California",
+        "degree": "Master of Science in Computer Science",
+        "duration": "2023 - 2024",
+        "desc": [
+          "Relevant Coursework: Analysis of Algorithms, Database Systems, Web Technologies, Multimedia Systems design, Information Retrieval and Web Search Engines, Machine Learning for Data Science and Security Systems"
+        ]
+      }
+    ],
+    "experiences": [
+      {
+        "company": "Sisai Technologies Private Limited",
+        "position": "Data Science Intern",
+        "duration": "March 2021 - June 2021",
+        "desc": [
+          "Designed an advanced Machine Learning model using the Isolation Forest algorithm in Python for anomaly detection in vibrational sensor data; achieved a 30% performance improvement by processing over 1 million records.",
+          "Developed and deployed a web-based anomaly visualization tool with D3.js and Flask, enabling real-time sensor data analysis and alerting users before potential failures. ",
+          "Skills: Python · MongoDB · D3.js · Flask · Data Analytics · Mahcine Learning"
+        ]
+      },
+      {
+        "company": "Workup",
+        "position": "Android Developer Intern",
+        "duration": "May 2024 - July 2024",
+        "desc": [
+          "Led a team of 6 to develop key features for WorkUp's Android app, utilizing Kotlin to enhance UI performance and integrate Stripe for payment processing, improving overall performance by 20%",
+          "mplemented robust API communication framework using Retrofit, handling backend calls for user authentication; the implementation is now utilized by 3 cross-functional teams, enhancing collaboration and service delivery efficiency. ",
+          "Skills: Kotlin · Android Studio · Node.js · Stripe · Retrofit · Git"
+        ]
+      }
+    ]
+  }
+  
