@@ -10,7 +10,7 @@
       ],
       "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-rainbow-sunglasses_23-2149436181.jpg",
       "techStackImages": [
-        "https://img.icons8.com/external-outline-black-m-oki-orlando/144/000000/external-sdlc-project-management-outline-black-m-oki-orlando.png",
+        "https://img.icons8.com/clouds/144/server.png",
         "https://img.icons8.com/color/144/android-os.png",
         "https://img.icons8.com/color/144/000000/redux.png",
         "https://img.icons8.com/color/144/000000/mongodb.png"
@@ -104,7 +104,7 @@
       
       {
         "name": "Flask",
-        "image": "https://img.icons8.com/ios/144/null/flask.png",
+        "image": "https://img.icons8.com/nolan/144/flask.png",
         "category": "Frameworks"
       },
       {
@@ -144,7 +144,7 @@
       },
       {
         "name": "Django",
-        "image": "https://img.icons8.com/ios-filled/144/null/django.png",
+        "image": "https://img.icons8.com/ios-filled/144/django.png",
         "category": "Frameworks"
       },
       {
@@ -195,7 +195,7 @@
       },
       {
         "name": "NoSQL",
-        "image": "https://img.icons8.com/external-outline-black-m-oki-orlando/144/null/external-nosql-database-outline-outline-black-m-oki-orlando.png",
+        "image": "https://img.icons8.com/external-outline-black-m-oki-orlando/external-nosql-database-outline-outline-black-m-oki-orlando.png",
         "category": "Database"
       },
       {

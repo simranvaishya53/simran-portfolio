@@ -38,3 +38,8 @@ html {
 .animate-slide {
   animation: slide 1.5s infinite linear;
 }
+
+html, body {
+  overflow-x: hidden;
+}
+

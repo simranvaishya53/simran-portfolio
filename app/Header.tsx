@@ -55,7 +55,8 @@ export default function Header({ logo }: { logo: string }) {
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Simran Vaishya' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                <span className='text-lg font-medium'>{logo}</span>  {/* Always show name */}
+                
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
@@ -65,6 +66,7 @@ export default function Header({ logo }: { logo: string }) {
                     <CgMenuRight size={20} onClick={() => setNavCollapse(false)} />
                 </div>
             </nav>
+
 
             <div className={`flex min-h-screen w-screen absolute md:hidden top-0 ${!navCollapse ? 'right-0' : 'right-[-100%]'} bottom-0 z-50 ease-in duration-300`}>
                 <div className="w-1/4" onClick={() => setNavCollapse(true)}></div>

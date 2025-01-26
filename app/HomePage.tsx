@@ -39,7 +39,7 @@ const HomePage = () => {
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-300 animate-pulse">Loading portfolio...</p>
         </div>
     );
-
+    
     return (
         <>
             <Header logo={data.main.name} />
