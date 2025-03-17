@@ -237,12 +237,12 @@
       },
 
       {
-        "name": "EduConnect - Learning Management System",
-        "techstack": "Spring Boot, Angular.js, MySQL, Java",
+        "name": "CodeNova",
+        "techstack": "Next.js, Gemini API, Tailwind CSS, Convex DB",
         "category": "Full Stack",
-        "image": "/project-Images/educonnect.jpg",
+        "image": "/project-Images/codenova.png",
         "links": {
-          "code": "",
+          "code": "https://github.com/simranvaishya53/CodeNova",
           "video": "",
           "visit": ""
         }
